@@ -11,6 +11,7 @@ body {
   background-color: rgba(204, 207, 24, 0.699);
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 25px;
+  padding: 15px;
 }
 
 .container {
@@ -61,6 +62,7 @@ body {
 }
 
 .description {
+  text-align: center;
   margin-top: 10px;
   padding: 10px;
   font-size: 25px;

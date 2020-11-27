@@ -52,9 +52,10 @@ async function predict() {
     const probability = prediction[i].probability.toFixed(2) * 100;
 
     const data = {
+      other: 'other에 대한 설명을 적어볼까요?',
+      human: 'human에 대한 설명을 적어볼까요?',
       dog: 'dog에 대한 설명을 적어볼까요?',
       cat: 'cat에 대한 설명을 적어볼까요?',
-      empty: 'empty에 대한 설명을 적어볼까요?',
       lion: 'lion에 대한 설명을 적어볼까요?',
       tiger: 'tiger에 대한 설명을 적어볼까요?',
     };

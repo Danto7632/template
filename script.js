@@ -59,7 +59,8 @@ async function predict() {
       lion: '사자',
       tiger: '호랑이',
       sparrow: '참새',
-      dove: '비둘기'
+      dove: '비둘기',
+      squirrel: '다람쥐'
     };
 
     if (probability >= 75) {

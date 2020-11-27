@@ -1,1 +1,1 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.3.1","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2020-11-27T07:16:39.075Z","userMetadata":{},"modelName":"수정본   동물 판별기","labels":["other","human","dog","cat","lion","tiger","sparrow","dove","squirrel"]}
+{"tfjsVersion":"1.3.1","tmVersion":"2.3.1","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2020-11-27T07:22:32.988Z","userMetadata":{},"modelName":"수정본   동물 판별기","labels":["other","human","dog","cat","lion","tiger","sparrow","dove","squirrel"]}

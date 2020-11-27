@@ -52,12 +52,12 @@ async function predict() {
     const probability = prediction[i].probability.toFixed(2) * 100;
 
     const data = {
-      other: 'other에 대한 설명을 적어볼까요?',
-      human: 'human에 대한 설명을 적어볼까요?',
-      dog: 'dog에 대한 설명을 적어볼까요?',
-      cat: 'cat에 대한 설명을 적어볼까요?',
-      lion: 'lion에 대한 설명을 적어볼까요?',
-      tiger: 'tiger에 대한 설명을 적어볼까요?',
+      other: '다른것',
+      human: '사람',
+      dog: '개',
+      cat: '고양이',
+      lion: '사자',
+      tiger: '호랑이',
     };
 
     if (probability >= 75) {

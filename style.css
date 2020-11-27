@@ -6,6 +6,13 @@ body {
   font-size: 40px;
 }
 
+.body {
+  justify-content: center;
+  background-color: rgba(204, 207, 24, 0.699);
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 25px;
+}
+
 .container {
   width: 380px;
   padding: 10px;
